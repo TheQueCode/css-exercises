@@ -13,26 +13,24 @@ body {
 .title {
   background: #85ceff;
   font-size: 16px;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 8px;
 }
 
 .content {
   background: #85ceff;
-  margin: 8px;
+  margin-bottom: 8px;
   padding: 16px 8px;
 }
 
 .button-container {
   background: #85ceff;
   text-align: center;
-  margin: 8px;
   padding: 8px;
 }
 
 button {
   display: block;
-  align-self: center;
   background: white;
   border: 1px solid #eee;
   padding: 8px 24px;
